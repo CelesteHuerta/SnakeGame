@@ -139,11 +139,5 @@ requestAnimationFrame(loop);
 </script>
 </body>
 
-function mousePressed() {
-  if (value === 0) {
-    value = 255;
-  } else {
-    value = 0;
-  }
 }
 </html>
